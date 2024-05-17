@@ -1,0 +1,159 @@
+/* ------------------------------------------root*/
+:root {
+    --fs-xm: 14px;
+    --fs-sm: 16px;
+    --fs-md: 17px;
+    --fs-lg: 18px;
+    --fs-xl: 20px;
+    --fs-2xl: 38px;
+    --fs-3xl: 48px;
+    --fs-4xl: 70px;
+  
+    --lh-21: 21px;
+    --lh-22: 22px;
+    --lh-23: 23px;
+    --lh-24: 24px;
+    --lh-36: 33px;
+    --lh-62: 47px;
+    --lh-72: 55px;
+    --lh-96: 96px;
+  
+    --gray-100: #11100B1A;
+    --gray-200: #383838;
+    --gray-300:#7676801F;
+    --gray-400:#FFFFFF3B;
+    --black: #080705;
+    --red: #D01F23;
+    --dark-red:#6A1012;
+    --red-100: #B91C20;
+    --red-200:#850A0D;
+    --red-300:#B61C1FCC;
+    
+  }
+  
+  .gray-200 {
+    color: var(--gray-200);
+  }
+  
+  .color-black {
+    color: var(--black);
+  }
+  
+  .bg-black {
+    background-color: var(--black);
+  }
+  
+  .fs-14 {
+    font-size: var(--fs-xm);
+  }
+  
+  .fs-16 {
+    font-size: var(--fs-sm);
+  }
+  
+  .fs-17 {
+    font-size: var(--fs-md);
+  }
+  
+  .fs-18 {
+    font-size: var(--fs-lg);
+  }
+  
+  .fs-24 {
+    font-size: var(--fs-xl);
+  }
+  
+  .fs-52 {
+    font-size: var(--fs-2xl);
+  }
+  
+  .fs-60 {
+    font-size: var(--fs-3xl);
+  }
+  
+  .fs-80 {
+    font-size: var(--fs-4xl);
+  }
+  
+  .lh-21 {
+    line-height: var(--lh-21);
+  }
+  
+  .lh-22 {
+    line-height: var(--lh-22);
+  }
+  
+  .lh-23 {
+    line-height: var(--lh-23);
+  }
+  
+  .lh-24 {
+    line-height: var(--lh-24);
+  }
+  
+  .lh-36 {
+    line-height: var(--lh-36);
+  }
+  
+  .lh-62 {
+    line-height: var(--lh-62);
+  }
+  
+  .lh-72 {
+    line-height: var(--lh-72);
+  }
+  
+  .lh-96 {
+    line-height: var(--lh-96);
+  }
+  
+
+  @media (min-width:575px) {
+    :root {
+      --fs-xm: 14px;
+      --fs-sm: 16px;
+      --fs-md: 17px;
+      --fs-lg: 18px;
+      --fs-xl: 24px;
+      --fs-2xl: 48px;
+      --fs-3xl: 52px;
+      --fs-4xl: 75px;
+    
+      --lh-21: 21px;
+      --lh-22: 22px;
+      --lh-23: 23px;
+      --lh-24: 24px;
+      --lh-36: 36px;
+      --lh-62: 62px;
+      --lh-72: 58px;
+      --lh-96: 96px;
+    }  
+    
+    
+  }
+
+  @media (min-width:992px) {
+    :root {
+      --fs-xm: 14px;
+      --fs-sm: 16px;
+      --fs-md: 17px;
+      --fs-lg: 18px;
+      --fs-xl: 24px;
+      --fs-2xl: 52px;
+      --fs-3xl: 60px;
+      --fs-4xl: 80px;
+    
+      --lh-21: 21px;
+      --lh-22: 22px;
+      --lh-23: 23px;
+      --lh-24: 24px;
+      --lh-36: 36px;
+      --lh-62: 62px;
+      --lh-72: 72px;
+      --lh-96: 96px;
+    }  
+
+    
+  }
+
+
