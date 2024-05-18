@@ -2,7 +2,7 @@ import React from 'react'
 import Cardimg from '../assets/images/webp/cardimg.webp'
 const BlogsSection = () => {
     return (
-        <section className='bg-black  position-relative -mt-2'>
+        <section className='bg-black  position-relative -mt-2'   id='blog'>
             <div className="gradient-box position-absolute w-100 "></div>
             <div className="container max-w-1140">
                 <div className="d-flex justify-content-center" data-aos="zoom-in">

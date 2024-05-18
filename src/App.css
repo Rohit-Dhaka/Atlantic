@@ -365,9 +365,10 @@
   top: -16%;
 }
 
-.navbar-toggler span:nth-child(1) {
-  height: 3px !important;
-  background: white;
+.navbar-toggler span{    
+  height: 30px;
+  width: 30px;
+  background-image: url("./assets/images/svg/icons-menu.svg");
 }
 
 @media (max-width:575px) {
@@ -389,13 +390,18 @@
     height: 58px !important;
   }
 
-  .py-sm-68 {
-    padding: 68px 0px !important;
+  .pt-sm-68 {
+    padding-top: 68px !important;
+  }
+
+  .pb-sm-68 {
+    padding-bottom: 68px !important;
   }
 
   .bg-white-img {
     height: 417px;
     width: 100%;
+
   }
 
   .pb-sm-140 {
@@ -545,12 +551,12 @@
 
   .bg-white-img {
     height: 417px;
-    right: -13%;
+    right: -17%;
     max-width: 890px;
   }
 
   .left-white-img {
-    left: -13%;
+    left: -17%;
     height: 417px !important;
     max-width: 956px;
     height: 417px !important;
@@ -563,4 +569,3 @@
     max-width: 694px !important;
   }
 }
-

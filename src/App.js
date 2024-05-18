@@ -11,7 +11,9 @@ import NumberSection from './components/NumberSection';
 
 function App() {
   useEffect(() => {
-    AOS.init();
+    AOS.init({
+      once: true,
+    });
   }, [])
   
 
