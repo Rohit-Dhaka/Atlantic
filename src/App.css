@@ -24,7 +24,7 @@
 /* ------------------------------------------font-family */
 /* ------------------------------------------padding */
 .py-14 {
-  padding: 14px 0px;
+  padding: 14px 0px !important;
 }
 
 .pr-55 {
@@ -120,6 +120,9 @@
 
 .max-w-1140 {
   max-width: 1140px !important;
+}
+.max-w-1160 {
+  max-width: 1160px !important;
 }
 
 .max-w-1360 {
@@ -277,6 +280,8 @@
 
 .bg-blogs-red::after {
   background-image: url("./assets/images/webp/BlogRed.webp");
+  
+
   right: -19px;
   left: -5px;
 }
@@ -319,6 +324,8 @@
 .bg-white-img {
   background-image: url("./assets/images/webp/RigthWhite.webp");
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   height: 400px;
   width: 100%;
   max-width: 1000px;
@@ -342,9 +349,9 @@
 
 .left-white-img {
   background-image: url("./assets/images/webp/LeftWhite.webp");
-  background-repeat: no-repeat;
-  background-position: 100% 100%;
+  background-repeat: no-repeat;  
   background-size: cover;
+  background-position: center;
   max-width: 956px;
   height: 480px !important;
 }

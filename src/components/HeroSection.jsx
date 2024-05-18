@@ -9,7 +9,7 @@ const HeroSection = () => {
             <div className=" position-absolute emoimg d-md-block d-none">
                 <img src={Emoimg} alt="img" />
             </div>
-            <nav class="navbar navbar-expand-xl bg-body-tertiary"  data-aos="fade-down">
+            <nav class="navbar navbar-expand-xl bg-body-tertiary py-14"  data-aos="fade-down">
                 <div class="container max-w-1360">
                     <div className="pr-55"><img src={Logo} alt="logo" /></div>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

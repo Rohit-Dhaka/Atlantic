@@ -5,8 +5,8 @@ const BlogsSection = () => {
         <section className='bg-black  position-relative -mt-2'   id='blog'>
             <div className="gradient-box position-absolute w-100 "></div>
             <div className="container max-w-1140">
-                <div className="d-flex justify-content-center" data-aos="zoom-in">
-                    <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0 max-w-745 z_1 text-center'>explore our<span className="fw-normal bg-red  position-relative  z_1 bg-blogs-red">  <em> blogs</em></span></h2>
+                <div className="d-flex justify-content-center" data-aos="zoom-in">                    
+                    <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0  max-w-578 text-center'>explore our<span className="fw-normal   position-relative  z_1 bg-blogs-red bg-red">  <em>   blogs </em></span></h2>
                 </div>
                 <div className="row pb-lg-262 pb-sm-140 pb-60 pt-83">
                     <div className="col-lg-4 col-sm-6 col-12" data-aos="zoom-in">
