@@ -14,13 +14,13 @@ const NumberSection = () => {
             <div className="pt-lg-137 pt-sm-140 pt-60 z-1  position-relative">
                 <div className="half-circle ">
                     <div className=" d-sm-none d-flex gap-3 icon-box py-3  ">
-                        <div className="icon"><img src={Icon1} alt="" className='w-100' /></div>
-                        <div className="icon"><img src={Icon2} alt="" className='w-100' /></div>
-                        <div className="icon"><img src={Icon3} alt="" className='w-100' /></div>
-                        <div className="icon"><img src={Icon1} alt="" className='w-100' /></div>
-                        <div className="icon"><img src={Icon2} alt="" className='w-100' /></div>
-                        <div className="icon"><img src={Icon3} alt="" className='w-100' /></div>
-                        <div className="icon"><img src={Icon4} alt="" className='w-100' /></div>
+                        <div className="icon"><img src={Icon1} alt="icon" className='w-100' /></div>
+                        <div className="icon"><img src={Icon2} alt="icon" className='w-100' /></div>
+                        <div className="icon"><img src={Icon3} alt="icon" className='w-100' /></div>
+                        <div className="icon"><img src={Icon1} alt="icon" className='w-100' /></div>
+                        <div className="icon"><img src={Icon2} alt="icon" className='w-100' /></div>
+                        <div className="icon"><img src={Icon3} alt="icon" className='w-100' /></div>
+                        <div className="icon"><img src={Icon4} alt="icon" className='w-100' /></div>
                     </div>
                     <div className="container max-w-1140 position-relative  d-sm-block d-none">
 

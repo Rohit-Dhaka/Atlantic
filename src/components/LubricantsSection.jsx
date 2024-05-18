@@ -16,7 +16,7 @@ const LubricantsSection = () => {
             <img src={Ellipse853} alt="ellipse" />
           </div>
           <div className="golden-img position-absolute d-lg-block d-none  " data-aos="fade-right">
-            <img src={GoldenImg} alt="" className='w-100' />
+            <img src={GoldenImg} alt="golden" className='w-100' />
           </div>
           <div className="bg-white-img position-absolute z-0 "></div>
           <div className="col-lg-6 col-12 pt-sm-68 pb-sm-68 py-4 z_1 " data-aos="fade-left">

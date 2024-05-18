@@ -24,7 +24,7 @@ const HeroSection = () => {
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" className='text-white fw-normal fs-16 lh-24 ff-dm-sans underline position-relative pe-1'>
                                     Categories
                                 </a>
-                                <img src={Arrow} alt="" />
+                                <img src={Arrow} alt="arrow" />
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="#">Action</a></li>
                                     <li><a class="dropdown-item" href="#">Another action</a></li>

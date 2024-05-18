@@ -98,12 +98,15 @@
 }
 
 /* ------------------------------------------gap*/
-/* ------------------------------------------margan*/
+/* ------------------------------------------margin*/
 .-mt-400 {
   margin-top: -400px;
 }
+.-mt-2 {
+  margin-top: -2px;
+}
 
-/* ------------------------------------------margan*/
+/* ------------------------------------------margin*/
 /* ------------------------------------------width*/
 
 .max-w-578 {
@@ -165,6 +168,7 @@
 .common-btn:hover {
   border-image: linear-gradient(to top, var(--red), var(--dark-red)) 1;
   background: linear-gradient(180deg, var(--red) 0%, var(--dark-red) 100%);
+  
 }
 
 .fw-black {
@@ -226,9 +230,7 @@
   z-index: 0 !important;
 }
 
-.-mt-2 {
-  margin-top: -2px;
-}
+
 
 .dropdownMenu {
   background-color: rgb(93, 93, 93);
@@ -280,8 +282,6 @@
 
 .bg-blogs-red::after {
   background-image: url("./assets/images/webp/BlogRed.webp");
-  
-
   right: -19px;
   left: -5px;
 }
@@ -408,7 +408,6 @@
   .bg-white-img {
     height: 417px;
     width: 100%;
-
   }
 
   .pb-sm-140 {
@@ -576,3 +575,4 @@
     max-width: 694px !important;
   }
 }
+/* 579 */
