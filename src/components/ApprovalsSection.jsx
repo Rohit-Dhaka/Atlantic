@@ -5,7 +5,7 @@ const ApprovalsSection = () => {
         <section className='bg-black  overflow-hidden'   id='Services'>
             <div className="container pb-78 max-w-1140">
                 <div className="d-flex pt-sm-140 pt-60" data-aos="fade-right">
-                    <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0 max-w-745'>OEM <span className="fw-normal bg-red position-relative z_1 bg-blue-img">  <em> Approvals</em></span>   <span className="d-flex flex-nowrap"></span></h2>
+                    <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0 max-w-745'>OEM <span className="fw-normal  position-relative z_1  bg-approvals px-2">  <em> Approvals</em></span>   <span className="d-flex flex-nowrap"></span></h2>
                 </div>
                 <div className="row pt-53 position-relative  ">
                     <div className="BlueEllips position-absolute   " data-aos="fade-left">

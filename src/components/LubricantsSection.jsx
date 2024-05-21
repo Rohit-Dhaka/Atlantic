@@ -6,10 +6,10 @@ import GoldenImg from '../assets/images/webp/GoldenImg.webp'
 const LubricantsSection = () => {
 
   return (
-    <section className='bg-black -mt-2 overflow-hidden '  id='Testimonials' >
+    <section className='bg-black  overflow-hidden '  id='Testimonials' >
       <div className="container max-w-1160 pb-85  ">
         <div className="d-flex justify-content-lg-end justify-content-start pt-lg-168 pt-sm-140 pt-60" data-aos="fade-left">
-          <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0 max-w-745 '>Pioneers of <span className="fw-normal bg-red position-relative z_1 Lubricants-red-img">  <em> Lubricants</em></span>   <span className="d-flex flex-nowrap">& Grease Manufacturing</span></h2>
+          <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0 max-w-745 '>Pioneers of <span className="fw-normal  position-relative z_1  bg-lubricants px-2">  <em> Lubricants</em></span>   <span className="d-flex flex-nowrap">& Grease Manufacturing</span></h2>
         </div>
         <div className="row justify-content-end position-relative pt-45 ">
           <div className="Ellipse853 position-absolute d-sm-block d-none ">

@@ -54,7 +54,7 @@ const NumberSection = () => {
             <div className="box-img">
                 <div className="container max-w-1140 -mt-sm-263 -mt-400">
                     <div className="d-flex justify-content-center z-1  position-relative" data-aos="zoom-in">
-                        <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0  max-w-578 text-center'>our<span className="fw-normal   position-relative  z_1 number-bg-img bg-red">  <em> numbers </em></span>say about us</h2>
+                        <h2 className=' text-uppercase text-white ff-poppins fw-extra-bold fs-52 lh-62 mb-0  max-w-578 text-center'>our <span className="fw-normal position-relative z_1 bg-number px-2"><em>numbers</em></span> say about us</h2>
                     </div>
                     <div className="row pb-lg-288 pb-sm-140 pb-60 pt-75">
                         <div className="col-lg-3 col-sm-6 col-12  z_1" data-aos="zoom-in">
