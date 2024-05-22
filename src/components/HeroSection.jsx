@@ -44,7 +44,7 @@ const HeroSection = () => {
                         </ul>
                         <div className="input-box p-3 d-flex gap-12 me-3 mt-xl-0 mt-3" >
                             <img src={Search} alt="search" />
-                            <input type="search" placeholder='Search' className=' ff-dm-sans fw-normal fs-17 lh-22 border-0 outline-none bg-transparent text-white' />
+                            <input type="search" placeholder='Search' className=' ff-dm-sans fw-normal fs-17 lh-22 border-0 outline-none bg-transparent text-white w-100' />
                         </div>
                         <button className='common-btn text-white ff-chivo  fs-16 lh-24 fw-black text-uppercase mt-xl-0 mt-3'>Get in touch</button>
                     </div>
